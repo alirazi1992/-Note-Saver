@@ -1,0 +1,14 @@
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\bin\Debug\net8.0\NoteSaver.exe
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\bin\Debug\net8.0\NoteSaver.deps.json
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\bin\Debug\net8.0\NoteSaver.runtimeconfig.json
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\bin\Debug\net8.0\NoteSaver.dll
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\bin\Debug\net8.0\NoteSaver.pdb
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\NoteSaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\NoteSaver.AssemblyInfoInputs.cache
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\NoteSaver.AssemblyInfo.cs
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\NoteSaver.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\NoteSaver.dll
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\refint\NoteSaver.dll
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\NoteSaver.pdb
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\NoteSaver.genruntimeconfig.cache
+C:\Users\a.razi\source\repos\NoteSaver\NoteSaver\obj\Debug\net8.0\ref\NoteSaver.dll

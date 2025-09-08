@@ -1,0 +1,3 @@
+﻿Learning C#
+---
+I have to finish 10 lessones 
